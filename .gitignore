@@ -5,3 +5,4 @@ dist/
 *.pyc
 .env
 .venv/
+tmp/
