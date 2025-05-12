@@ -1,6 +1,6 @@
 {
   "name": "tmux-bridge-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
   "main": "src/index.ts",
   "scripts": {
